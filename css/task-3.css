@@ -1,0 +1,13 @@
+input {
+  width: 360px;
+  height: 40px;
+  border-radius: 5px;
+  padding: 10px;
+  border: solid;
+}
+input:hover,
+input:focus {
+  outline: none;
+  border-color: black;
+  border-width: 1px;
+}
